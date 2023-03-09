@@ -1,0 +1,8 @@
+.display-1 {
+    text-shadow: 2px 2px 0 white;
+}
+
+.heroImage figcaption {
+    top: 5rem;
+    right: 2rem;
+}
